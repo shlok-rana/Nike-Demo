@@ -33,11 +33,20 @@ body {
 .nav img {
   height: 80px;
   width: auto;
+  margin-right: 40px;
+  cursor: pointer;
 }
 
 .nav-part-1 ul{
     display: flex;
     align-items: center;
     justify-content: center;
-
+    list-style: none;
+}
+.nav-part-1 ul li {
+    margin-right: 40px;
+    font-size: 19px;
+    font-weight: 500;
+    text-transform: uppercase;
+    cursor: pointer;
 }
