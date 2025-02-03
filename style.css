@@ -50,3 +50,7 @@ body {
     text-transform: uppercase;
     cursor: pointer;
 }
+
+.nav-part-2 i{
+    margin-right: 40px;
+}
